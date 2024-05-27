@@ -8,7 +8,6 @@ public class stateinfo {
 
 		this.sname = sname;
 	}
-
 	
 
 	public String getSname() {
@@ -20,12 +19,10 @@ public class stateinfo {
 	}
 
 
-
 	@Override
 	public String toString() {
 		return "stateinfo [sname=" + sname + "]";
 	}
-	
 	
 
 }
